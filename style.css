@@ -1,0 +1,16 @@
+body{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 400px;
+    margin:0 auto;
+}
+p{
+    border: 1px solid gray;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.redtext{
+    background-color: red;
+}
